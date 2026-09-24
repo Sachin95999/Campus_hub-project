@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](#license)
 
 > **Campus Hub** is a full-stack, single-repository Web Application designed to streamline daily campus life for students and administrators. It integrates notice broadcasting, mess menu schedules, hostel maintenance complaints tracking, lost & found reporting, and real-time in-app notifications into a single, modern interface.
+> live link:https://campus-hub-6iue.onrender.com/login
 
 ---
 
